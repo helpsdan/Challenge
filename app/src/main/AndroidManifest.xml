@@ -18,7 +18,17 @@
         </activity>
         <activity android:name=".view.ProfileActivity" />
         <activity android:name=".view.HabitActivity" />
+        <activity android:name=".habits.SmokeActivity" />
+        <activity android:name=".habits.FoodActivity" />
+        <activity android:name=".habits.DrinkActivity" />
+        <activity android:name=".habits.MedicationActivity" />
+        <activity android:name=".habits.DrugsActivity" />
         <activity android:name=".AnalisysHabit.SmokeAnalisysActivity" />
+        <activity android:name=".habits.SmokeAnalisysActivity" />
+        <activity android:name=".habits.MedicationAnalisysActivity" />
+        <activity android:name=".habits.DrinkAnalisysActivity" />
+        <activity android:name=".habits.FoodAnalisysActivity" />
+        <activity android:name=".habits.DrugsAnalisysActivity" />
         <activity android:name=".view.ChatActivity" />
         <activity android:name=".view.ProgressActivity"></activity>
     </application>

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Challenge</string>
+    <string name="usu_rio">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="esqueceu_sua_senha">Esqueceu sua senha?</string>
+    <string name="fazer_login_com">Fazer login com:</string>
 </resources>
